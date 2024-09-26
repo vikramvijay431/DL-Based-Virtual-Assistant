@@ -4,11 +4,17 @@ It is a virtual assistant for visually impaired which include models like face r
 Key Features:
 
 Natural Language Processing (NLP): Utilizes advanced NLP models to understand and interpret user queries.
+
 Speech Recognition and Response: Integrates speech-to-text and text-to-speech functionalities for seamless communication.
+
 Task Automation: Automates various tasks, including setting reminders, opening applications, sending emails, and retrieving information.
+
 Deep Learning Models: Incorporates deep learning frameworks such as TensorFlow or PyTorch for language understanding and context retention.
+
 API Integration: Connects with third-party APIs (e.g., weather, news, email) for fetching real-time information.
+
 Voice Interaction: Provides real-time voice interaction with personalized responses.
+
 Customizable Modules: Users can add or modify specific commands based on their needs.
 
 ### Requirements and usage 
